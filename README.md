@@ -8,8 +8,10 @@ skill.
 The organization is mainly managed and developed by (Giang Le)[emailto:lstrgiang@gmail.com].
 
 Disclaimer: 
+
     - :books: Any usage over the source code for educational purpose (project submission, course submission, etc.) 
 must be granted by the author (Giang Le).
+
     - :tm: Do not use source code and projects from this organization for any
     business purposes without permission.
 
